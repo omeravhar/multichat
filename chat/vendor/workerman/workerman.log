@@ -1,0 +1,1 @@
+2023-01-22 15:05:17 pid:1 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 536870912 bytes exhausted (tried to allocate 266342400 bytes) in C:\xampp8.0\htdocs\test\index.php on line 11"
